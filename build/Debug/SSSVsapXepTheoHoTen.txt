@@ -1,0 +1,5 @@
+5;HoQuangKhai;4.50
+4;HoangDucBinh;4.50
+2;LeThiBinh;6.80
+1;NguyenVanNam;7.60
+3;TruongGiaKien;9.20
