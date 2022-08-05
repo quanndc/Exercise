@@ -1,5 +1,0 @@
-MEZ 	Den	    7	20000
-BMW     Trang	4	17000
-BMW	    Den	    7	26000
-TOYOTA	Trang	4	12000
-TOYOTA	Xam	    4	27000
